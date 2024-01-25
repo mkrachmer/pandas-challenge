@@ -1,3 +1,8 @@
+CHALLENGE STATUS
+
+1/24/2024: Only able to complete District Summary section due to illness. Will resubmit remainder of assignment once complete.
+
+
 INSTRUCTIONS
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
